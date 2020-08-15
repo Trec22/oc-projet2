@@ -338,6 +338,25 @@ p{
 
 }
 
+@media screen and (max-width: 500px){
+    .resume {
+        width: auto;
+        height: 100%;
+        word-wrap: break-word;
+        margin-top: 0px;
+    }
+
+    .resume .resume_left .resume_profile img{
+        margin-top: 3rem;
+        margin-bottom:2rem; 
+
+    }
+
+
+
+
+}
+
 @media screen and (max-width: 300px){
     .resume {
         font-size:;
