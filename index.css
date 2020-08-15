@@ -353,8 +353,13 @@ p{
     
     .resume_left h3{
         font-size:27.5px;
+        padding: 10px;
     }
+    
+    .resume .resume_left .resume_loisirs h3{
+        padding: 12px;
 
+    }
 
 
 }
@@ -388,10 +393,6 @@ p{
     .resume_left .contact{
         padding: 20px;
     }
-
-    .resume_left h3{
-        font-size:35px;
-    }
     
     .resume_info li{
         font-size: 35px;
@@ -416,14 +417,9 @@ p{
     .resume_left h3{
         padding: 20px; 
         margin-top: 40px;
-
+        font-size:35px;
     }
     
-    .resume .resume_left .resume_loisirs h3{
-        margin-top: 140px;
-
-    }
-
     .resume_loisirs h3{
         font-size:35px;
     
@@ -432,6 +428,8 @@ p{
     .resume .resume_left .resume_loisirs h3{
         padding: 20px;
         margin-bottom: 4rem;
+        margin-top: 140px;
+
     }
 
     .resume_loisirs ul{
