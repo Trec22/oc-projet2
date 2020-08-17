@@ -452,10 +452,13 @@ p{
     }
     .resume_recomendations article {
         margin-top: 1.5rem;
-        float: right;
-        margin-right: 15rem;
+        float: left;
+        margin-left: 4rem;
     }
 
+    .resume_recomendations i{
+        margin-right: 2rem;
+    }
 
 
 }
