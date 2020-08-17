@@ -450,7 +450,11 @@ p{
         font-size: 20px;
         line-height: 1.2;
     }
-
+    .resume_recomendations article {
+        margin-top: 1.5rem;
+        float: right;
+        margin-right: 15rem;
+    }
 
 
 
