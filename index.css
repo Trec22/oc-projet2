@@ -179,10 +179,7 @@ body{
     margin-top:0;
     margin-left: 0;
     margin-bottom:1rem;
-}
-.resume_right .resume_experience .date{
-    
-    margin-left: 0;
+
 }
 .resume_right .date {
     margin-top:1rem;
@@ -393,10 +390,37 @@ p{
     .resume .resume_right h2{
         font-size: 48px;
     }
+    
+    .resume_formation i{
+        font-size: 20px;
+        margin-right: 4px;
+    }
+    .resume_experience i{
+        font-size: 20px;
+        margin-right: -2px;
+        
+    }
+    .resume_recomendations i{
+        font-size: 20px;
+        margin-right: 4px;
 
     
-     
+    }
+    .resume .resume_right h3{
+        margin-left: 1rem;
+        font-size: 28px;
+    }
 
+    .resume_right h3{
+        
+        
+       
+    }
+
+    .resume_right .resume_formation i{
+        margin-right: 2rem;
+        margin-left:;
+    }
 
 
 }
