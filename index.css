@@ -421,13 +421,17 @@ p{
         font-size: 18px;
 
     }
-
-    .resume_right .resume_formation i{
-        margin-right:;
-        margin-left:;
+    
+    .resume .resume_right h4{
+        font-size: 20px;
     }
 
+    .resume .resume_right h5{
 
+    }
+
+    
+    
 }
 
 @media screen and (max-width: 300px){
