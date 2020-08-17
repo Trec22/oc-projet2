@@ -446,7 +446,10 @@ p{
     .resume_right .lieu{
         margin-left: 3.5rem;
     }
-
+    .resume_right p{
+        font-size: 20px;
+        line-height: 1.2;
+    }
 
 
 
