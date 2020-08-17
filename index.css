@@ -393,7 +393,8 @@ p{
     
     .resume_formation i{
         font-size: 20px;
-        margin-right: 4px;
+        margin-right: 2px;
+        margin-left: 2.5px;
     }
     .resume_experience i{
         font-size: 20px;
@@ -409,6 +410,7 @@ p{
     .resume .resume_right h3{
         margin-left: 1rem;
         font-size: 28px;
+
     }
 
     .resume_right .date{
@@ -428,15 +430,20 @@ p{
 
     .resume .resume_right h5{
         font-size: 18px;
-        line-height: 1.2;
+        line height: 1.2;
     }
+
     .resume .resume_right .resume_formation p{
         font-size: 19px;
         line-height: 1.2;
 
-    
     }
-    
+    .resume_right .resume_experience i{
+        margin-left:-.1rem;
+        margin-right: 1.5rem;
+
+    }
+
 
 }
 
