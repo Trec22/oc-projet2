@@ -411,14 +411,19 @@ p{
         font-size: 28px;
     }
 
-    .resume_right h3{
-        
-        
+    .resume_right .date{
+        font-size: 20px;   
        
     }
 
+    .resume_right .lieu{
+        margin-left: 4rem;
+        font-size: 18px;
+
+    }
+
     .resume_right .resume_formation i{
-        margin-right: 2rem;
+        margin-right:;
         margin-left:;
     }
 
