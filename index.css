@@ -438,10 +438,18 @@ p{
         font-size: 20px;   
        
     }
+    .resume_formation .lieu{
+       margin-left: 6rem;
+
+    }
+
+
 
     .resume_right .lieu{
-        margin-left: 4rem;
+        margin-left: 5.5rem;
         font-size: 18px;
+        margin-top: .3rem;
+        line-height: 1.2;
 
     }
     
@@ -475,10 +483,12 @@ p{
         line-height: 1.2;
     }
 
-    .resume_recomendations article {
-        margin-top: 1.5rem;
-        float: left;
-        margin-left: 4rem;
+    .resume_recommandations p{
+        float:left;
+        margin-top: 1rem;
+        margin-right:9rem;
+        margin-left:3rem;
+
     }
 
     .resume_recomendations i{
@@ -559,9 +569,15 @@ p{
     .resume_loisirs ul{
         font-size: 20px;
         margin-top:2rem;
-        margin-bottom: 4rem;
+        margin-bottom: 10rem;
     }
+    .resume .resume_left .resume_loisirs li{
+        float: right;
+        margin-left:-1rem;
+        margin-bottom:
+        margin-right: 7rem;
 
+    }
     .resume .resume_right h1{
         font-size: 55px;
     }
@@ -589,23 +605,23 @@ p{
         font-size: 38px;
 
     }
-
+    
     .resume_right .date{
-        font-size: 26px;
+        font-size:18px;
         display: inline;
     
     }
         
     .resume_right .resume_formation h4{
         font-size:36px;
-        margin-top:2.5rem;
+        margin-top:1rem;
         margin-bottom: 1rem;
 
     }
     
     .resume_right .resume_formation h5{
         font-size: 31px;
-        margin-top: 1.5rem;
+        margin-top: 1rem;
         margin-bottom:1rem;
     }
     
@@ -627,7 +643,7 @@ p{
     }
     .resume_right .resume_experience h5{
         font-size: 30px;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 1rem;
         
     }
