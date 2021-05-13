@@ -7,6 +7,7 @@ body{
 
 }
 
+
 *{
     margin: 0;
     padding: 0;
@@ -14,12 +15,13 @@ body{
     list-style: none;
     font-family: 'Open Sans', sans-serif;
 }
+
 .resume{ 
     display: flex;
-    margin: 25px auto;
    
 
 }
+
 .resume .resume_left{
     width: 300px;
     max-height: none;
@@ -352,12 +354,14 @@ p{
         margin-bottom:10rem;
     
     }
+
     .resume .resume_left .resume_loisirs li{
         float: right;
         margin-left:-1rem;
         margin-right: 7rem;
 
     }
+
 
     /*correction pour mieux lire sur smarphone dans fire fox*/
     @-moz-document url-prefix() {
@@ -522,12 +526,16 @@ p{
     .resume_recomendations i{
         margin-right: 2rem;
     }
+
     /*correction pour mieux lire sur smarphone dans fire fox*/
     @-moz-document url-prefix() { 
         body{
             width:auto;
+
         }
+
     }
+
 
 }
 
@@ -601,12 +609,14 @@ p{
         margin-top:2rem;
         margin-bottom: 10rem;
     }
+
     .resume .resume_left .resume_loisirs li{
         float: right;
         margin-left:-1rem;
         margin-right: 7rem;
 
     }
+
     .resume .resume_right h1{
         font-size: 55px;
     }
@@ -691,7 +701,7 @@ p{
 
     .resume .resume_right_recommandations p{
         display:flex;
-        margin-left:2rem
+        margin-left:2rem;
     
     }
 
@@ -705,22 +715,27 @@ p{
         margin-top: 1rem;
     }
 
+
     .resume_right .resume_formation i{
         margin-left: -1rem;
     }
 
+
     .resume_right .resume_experience i{
         margin-left: -1rem;
     }
+
 
     .resume_right .resume_recomendations i{
         margin-left: -1rem;
 
     }
 
+
     .resume_experience i{
         margin-left: 0rem;
     }
+
 
     .resume_recomendations i{
         margin-left: 0;
@@ -728,8 +743,12 @@ p{
 
     /*correction pour mieux lire sur smarphone dans fire fox*/
     @-moz-document url-prefix() { 
-    
+        .body{
+            width: auto;
+        }
+
     }
 
 }
+
 
